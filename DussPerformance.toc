@@ -1,0 +1,12 @@
+## Interface: 100005
+## Title: Duss Performance
+## Author: YourName
+## Version: 1.0
+## Description: Lightweight performance optimization addon - filter spell effects, weather, and environment
+## SavedVariables: DussPerformanceSavedVars
+
+Core.lua
+Config.lua
+Utils.lua
+EffectFilter.lua
+Options.lua
